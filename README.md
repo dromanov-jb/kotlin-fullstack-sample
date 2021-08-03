@@ -1,5 +1,6 @@
-# Warning
+[![obsolete JetBrains project](https://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
+# Warning
 This sample uses plugins, which will be deprecated.
 There is a [new repository](https://github.com/Kotlin/kotlin-full-stack-application-demo) with actual Kotlin version and Kotlin/JS Gradle plugin.
 
